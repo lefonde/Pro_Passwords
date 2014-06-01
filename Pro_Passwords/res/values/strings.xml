@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pro_Passwords</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login_fragment">LoginFragment</string>
+    <string name="email"><i>e-mail:</i></string>
+    <string name="password">password:</string>
+    <string name="repeat">repeat password:</string>
+    <string name="enter"><b>Enter</b></string>
+    <string name="login"><b>LOG IN</b></string>
+    <string name="signup"><b>Sign Up!</b></string>
+    <string name="signuptext"><b>This will be the future sign up page!</b></string>
+    <string name="chattext"><b>HERE WILL BE A CORPORATE CHAT!(after ill make a separate app for it)</b></string>
+    <string name="signbt"><b>SIGN ME UP!</b></string>
+    
+        
+
+</resources>
